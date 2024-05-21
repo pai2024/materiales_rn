@@ -1,6 +1,6 @@
 # Materiales para la clase sobre Redes Neuronales
 
-Este material ha sido preparado por @bjoaquin. ¡Muchas gracias!
+Este material ha sido preparado por [Joaquín Bermejo](https://github.com/bjoaquin). ¡Muchas gracias!
 
 * [La presentación está disponible acá](https://docs.google.com/presentation/d/1coFrnh9ZISIvVYOWm0dBnPuZdQl2Wnoc4FB9zPDOfuk/edit?usp=sharing).
 
